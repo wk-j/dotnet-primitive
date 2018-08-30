@@ -34,3 +34,9 @@ dotnet /usr/local/share/dotnet/sdk/2.1.4/Roslyn/bincore/csc.dll \
 cp ./packages/Newtonsoft.Json/10.0.3/lib/netstandard1.3/Newtonsoft.Json.dll script/Newton
 dotnet script/Newton/N.dll
 ```
+
+Deps
+
+```
+dotnet script/Deps/N.dll
+```
